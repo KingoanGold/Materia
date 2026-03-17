@@ -10,6 +10,3 @@
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
-canvas {
-  image-rendering: pixelated;
-}
